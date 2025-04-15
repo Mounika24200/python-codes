@@ -38,11 +38,11 @@ Form validation with alert messages
 🎨 Styling Features
 Uses Flexbox for layout
 
-Responsive Design: Layout adapts for screens <768px wide
+Responsive Design: Layout adapts for screens 
 
 Hover effects on navigation and service cards
 
-Consistent theme using shades of gray and blue (#333, #007BFF, etc.)
+Consistent theme using shades of gray and blue 
 
 Modern look using shadows and border radius
 
